@@ -8,8 +8,8 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Links and Resources
 
-* [submission PR](http://xyz.com)
-* Any Links you used as reference
+ [stackoverflow.com](https://stackoverflow.com/questions/20152414/shopping-list-app-using-checkboxes-to-cross-off-items)
+
 
 ### Lighthouse Accessibility Report Score
 

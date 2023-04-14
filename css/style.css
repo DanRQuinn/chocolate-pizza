@@ -33,3 +33,30 @@ main {
   display: flex;
  flex-direction: row;
 }
+
+ul {
+  background-image: url("../img/list-bg.png");
+  font-size: large;
+  line-height: 1.75em;
+  padding: 2em;
+  font-family: "Kalam";
+}
+
+#bottom {
+  display: flex;
+  direction: row;
+}
+#text {
+  text-indent: 25px;
+  line-height: 1.2em;
+  font-size:  1.25em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+#top > div {
+  display: flex;
+}
+#top > section:nth-child(2){
+  float: right;
+}

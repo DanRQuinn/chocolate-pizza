@@ -1,0 +1,35 @@
+header  {
+ display: flex;
+ flex-direction: row;
+justify-content: space-between;
+margin-bottom: 2rem;
+}
+
+#logo {
+display: flex;
+flex-direction: row;
+}
+
+#cursive {
+  font-family: "brush script m7", Cursive;
+font-size: 2rem;
+}
+
+body {
+  width: 901px;
+  padding: 3%;
+}
+
+main {
+  margin-top: 3rem;
+}
+#top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#topDivider {
+  display: flex;
+ flex-direction: row;
+}
